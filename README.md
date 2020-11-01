@@ -11,6 +11,5 @@ In this repository include all my personal notes taken during the LinkedIn Learn
 ## Scikit-Learn
 
 
-- Supervised Learning [[Jupyter Notebook](Scikit-Learn/
-Supervised-Learning.ipynb)]
+- Supervised Learning [[Jupyter Notebook](Scikit-Learn/Supervised-Learning.ipynb)]
 
