@@ -11,5 +11,5 @@ In this repository include all my personal notes taken during the LinkedIn Learn
 ## Scikit-Learn
 
 
-- Supervised Learning [[Jupyter Notebook](Scikit-Learn/Supervised-Learning.ipynb)]
+- How_to_Format_Data [[Jupyter Notebook](Scikit-Learn/Files/._02_02_How_to_Format_Data.ipynb)]
 
