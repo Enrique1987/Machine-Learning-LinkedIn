@@ -13,3 +13,5 @@ In this repository include all my personal notes taken during the LinkedIn Learn
 
 - How_to_Format_Data [[Jupyter Notebook](Scikit-Learn/Files/02_02_How_to_Format_Data.ipynb)]
 
+- Linear_Regression [[Jupyter Notebook](Scikit-Learn/Files/02_03_Linear_Regression.ipynb)]
+
